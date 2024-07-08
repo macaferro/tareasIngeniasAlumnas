@@ -7,15 +7,18 @@
 #### Módulo 1 - Servidores Web y Api Restful -
 * Guía de actividades prácticas: Módulo 1
   - Son aceptadas hasta **02/06/2024** inclusive
+  - 🙌[Tp01 Obligatorio](https://github.com/mariaelisaaraya/tp1ObligatorioIngenias) 🙌
 
 #### Módulo 2 - Base de Datos No Relacionales, Seguridad y Crud 
 * Guía de actividades prácticas: Módulo 2
-  - Tarea 11 **Obligatoria**
-    - **ULTIMA** Fecha de Entrega: Lunes 03/06/2024 17pm
-        - Miércoles⭐ - Jueves⭐ - Viernes⭐ - Sábado⭐ - Domingo⭐ / Lunes sin estrellas.
+  - Son aceptadas hasta **23/06/2024** inclusive
+  - 🙌[Tp02 Obligatorio](https://github.com/mariaelisaaraya/tp2ObligatorioIngenias) 🙌
 
 #### Módulo 3 - SQL, Documentación y Testing- 
 * Guía de actividades prácticas: Módulo 3
+  - Tarea N18 **Obligatoria**
+    - Fecha de Entrega: 26/06/2024 Miércoles 17hs.
+    - 🔥 **Mini Parcial** 08/07 - Suspendidos por fuerza mayor🔥
 
 ---
 
