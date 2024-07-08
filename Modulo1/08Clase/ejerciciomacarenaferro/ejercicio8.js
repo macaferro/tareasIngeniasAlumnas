@@ -22,7 +22,7 @@ function getproductos_sorted_byname() {
 app.get('/', (req, res) => {
     res.send('¡Bienvenid@s!'); 
     });
-
+    
 // productos ordenados de manera descendente
 app.get('/productos', (req, res) => {
     res.json(getproductos_sorted_byname())
